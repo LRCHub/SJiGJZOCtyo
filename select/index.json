@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "オールウェイズ",
+  "base_artist": "blink-182",
+  "createdAt": "2025-12-10T04:08:24.470119Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オールウェイズ",
+      "artist": "スウィッチフット",
+      "has_synced": true,
+      "path": "select/01_オールウェイズ_スウィッチフット.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オールウェイズ・ランニング・アウト・オブ・タイム",
+      "artist": "Motion City Soundtrack",
+      "has_synced": true,
+      "path": "select/02_オールウェイズ・ランニング・アウト・オブ・タイム_Motion_City_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forever & Always = フォーエヴァー＆オールウェイズ",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/03_Forever_&_Always_=_フォーエヴァー&オールウェイズ_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Always",
+      "artist": "BLINK-182",
+      "has_synced": false,
+      "path": "select/pl_01_Always_BLINK-182.txt"
+    }
+  ]
+}
